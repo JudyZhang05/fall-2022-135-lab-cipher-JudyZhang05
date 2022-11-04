@@ -21,6 +21,7 @@ TEST_CASE("Final Solution"){
     CHECK(solve(encryptCaesar("when news organizations publish apologies for their historically racist coverage, is it a meaningful way to rebuild trust? how does past news", 7)) == "when news organizations publish apologies for their historically racist coverage, is it a meaningful way to rebuild trust? how does past news\n\n");
 }
 
+//DONT INCLUDE
 // TEST_CASE("Cipher Conversion"){
 //     CHECK(every("EPOVU") == "EPOVU");
 //     CHECK(every("ABCDEF") == "BCDEFG");
